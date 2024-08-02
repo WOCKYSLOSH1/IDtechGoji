@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " y ",
+    "yxy",
+    " y "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:leather"
+    },
+    "y": {
+      "item": "examplemod:highradiationuraniumfood"
+    }
+  },
+  "result": {
+    "item": "examplemod:hazmatleather",
+    "count": 2
+  }
+}
+
+

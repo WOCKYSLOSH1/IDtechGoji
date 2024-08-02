@@ -1,0 +1,17 @@
+{
+  "item.examplemod.structuregel": "Structure Gel",
+  "block.examplemod.castlewall": "Castle Wall",
+  "item.examplemod.highradiationuraniumfood": "High Radiation Uranium",
+  "block.examplemod.highradiationuraniumore": "High Radiation Uranium Ore",
+  "item.examplemod.irradiatedhammeritem": "Irradiated Hammer",
+  "item.examplemod.gojirascale": "Gojira Scale",
+  "item.examplemod.hazmatleather": "Hazmat Leather",
+  "block.examplemod.pureuraniumblock": "Pure Uranium Block",
+  "entity.examplemod.gojira": "Gojira",
+  "item.examplemod.gojira_egg": "Gojira Spawn Egg",
+  "item.examplemod.customhelm": "Hazmat Helmet",
+  "item.examplemod.customchest": "Hazmat Chestplate",
+  "item.examplemod.customlegs": "Hazmat Leggings",
+  "item.examplemod.customfeet": "Hazmat Boots"
+
+}
